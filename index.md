@@ -2,7 +2,6 @@
 title: Welcome to my blog
 ---
 
-# 2023.01.10 Blog
-## Good things
-- Nice sunny day
-- Had dinner with Mary
+## My blog for..
+- To share good things
+- To encourage by myself even if there are bad things
